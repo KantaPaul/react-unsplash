@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+}
+.profile-avatar {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+
+a,
+span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.card-link,
+.title-without-link {
+  font-size: 14px;
+}
